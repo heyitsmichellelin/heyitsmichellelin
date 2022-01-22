@@ -1,5 +1,4 @@
 # Hey, it's Michelle Lin! 👋
-I'm a first year student.
 
 I'm a first year software engineering major at UC Irvine and I love connecting with different disciplines through computer science. As of now, I'm learning Python and working at a club at UCI called Commit the Change. This is just the start of my CS journey and I can't wait to explore along the way! Come follow me on my journey by connecting with me on [Linkedin](https://www.linkedin.com/in/michellelinca/) or shoot me an email at <itsmichellelin@gmail.com>!
 
