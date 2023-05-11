@@ -5,7 +5,7 @@ I'm a software engineering major at UC Irvine and I love connecting with differe
 ## About Me ✨
 - other than CS, I'm also interested in psychology, sociology, healthcare, and minimalist art
 - my long term career goal is to help create AI-powered devices that can detect diseases earlier
-- I'm experienced in Python, JavaScript, Java, HTML, CSS, and C++
+- I'm experienced in Python, JavaScript, Java, HTML, CSS, C++, and SQL
 
 ## Current Courses 📚
 - Introduction to Data Management
