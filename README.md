@@ -1,17 +1,18 @@
 # Hey, it's Michelle Lin! 👋
 
-I'm a software engineering major at UC Irvine and I love connecting with different disciplines through computer science. As of now, I'm a full-stack developer and membership director for a campus organization at UCI called Commit the Change. This is just the start of my CS journey and I can't wait to explore along the way! Come follow me on my journey by connecting with me on [Linkedin](https://www.linkedin.com/in/michellelinca/) or shoot me an email at <itsmichellelin@gmail.com>!
+I'm a software engineering major at UC Irvine and I love connecting different disciplines through computer science. As of now, I'm serving as President at a UCI campus organization called [Commit the Change](https://ctc-uci.com/), where I previously was a full-stack developer and membership director. This is just the start of my CS journey and I can't wait to explore along the way! Come follow me on my journey by connecting with me on [Linkedin](https://www.linkedin.com/in/michellelinca/) or shoot me an email at <itsmichellelin@gmail.com>!
 
 ## About Me ✨
 - other than CS, I'm also interested in psychology, sociology, healthcare, and minimalist art
 - my long term career goal is to help create AI-powered devices that can detect diseases earlier
-- I'm experienced in Python, JavaScript, Java, HTML, CSS, C++, and SQL
+- I'm experienced in Python, JavaScript, Java, HTML, CSS, C++, React, SQL, and Bash
 
 ## Current Courses 📚
-- Introduction to Data Management
-- Information Retrieval
-- Computer Networks
-- Software Testing, Analysis, and Quality Assurance
+- Data Structures & Algorithms
+- Intro to Computer Organization
+- Project Management
+- User Interaction Software
+
 
   
 *Ask me about the intersection between sociology and AI ethics!*
