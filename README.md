@@ -1,6 +1,6 @@
 # Hey, it's Michelle Lin! 👋
 
-I'm a software engineering major at UC Irvine and I love connecting different disciplines through computer science. As of now, I'm serving as President at a UCI campus organization called [Commit the Change](https://ctc-uci.com/), where I was previously a full-stack developer and membership director. This is just the start of my CS journey and I can't wait to explore along the way! Come follow me on my journey by connecting with me on [Linkedin](https://www.linkedin.com/in/michellelinca/) or shoot me an email at <itsmichellelin@gmail.com>!
+I'm a software engineering major at UC Irvine and I love connecting different disciplines through computer science. As of now, I'm serving as President at a UCI campus organization called [Commit the Change](https://ctc-uci.com/), where I was previously a full-stack developer and Membership Director. This is just the start of my CS journey and I can't wait to explore along the way! Come follow me on my journey by connecting with me on [Linkedin](https://www.linkedin.com/in/michellelinca/) or shoot me an email at <itsmichellelin@gmail.com>!
 
 ## About Me ✨
 - other than CS, I'm also interested in psychology, sociology, healthcare, and minimalist art
